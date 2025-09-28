@@ -260,7 +260,7 @@ threading.Thread(target=key_listener, daemon=True).start()
 
 # ui
 root = tk.Tk()
-root.title("GTAO Save Blocker 1.4")
+root.title("GTAO Save Blocker 1.6")
 
 # code useless a retirer dans le futur (concerne le bouton bloquer la save avec le logo juste a coter)
 top_frame = tk.Frame(root)
